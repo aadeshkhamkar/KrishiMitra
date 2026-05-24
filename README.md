@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="KrishiMitra AI Banner"/>
+<img src="assets/banner.png" width="100%" alt="KrishiMitra AI Banner">
+
+<br>
 
 # 🌱 KrishiMitra
 
@@ -32,7 +34,7 @@ AI-powered agriculture platform designed to help farmers with crop disease detec
 
 ## ⚠️ Currently Under Active Development
 
-KrishiMitra is currently in its development phase and new features are continuously being added and improved.
+KrishiMitra is currently in an active development phase and new features are continuously being added.
 
 Current implementation includes:
 
@@ -43,39 +45,37 @@ Current implementation includes:
 ✅ Dashboard  
 ✅ Multilingual Support  
 
-Upcoming intelligent features are still under implementation.
+Upcoming intelligent features are still under development.
 
 ---
 
 # 📖 About Project
 
-KrishiMitra is an AI-powered smart agriculture platform designed specifically for Maharashtra farmers.
+KrishiMitra is an AI-powered smart agriculture platform developed specifically for Maharashtra farmers.
 
-The objective of this project is to help farmers make smarter farming decisions using Artificial Intelligence and modern technologies.
+The main goal of this project is to help farmers make smarter farming decisions using Artificial Intelligence and modern technologies.
 
-The platform provides:
+This platform provides:
 
-✔ AI-powered crop disease detection
+✔ AI Crop Disease Detection
 
-✔ Smart farming guidance
+✔ Smart Agricultural Assistance
 
-✔ Personalized recommendations
+✔ Personalized Recommendations
 
-✔ Farm management
+✔ Farm Management
 
-✔ Daily farming tasks
+✔ Daily Farming Tasks
 
-✔ AI chatbot support
+✔ Multilingual Support
 
-✔ Multilingual communication
-
-✔ Intelligent recommendations
+✔ Intelligent Suggestions
 
 ---
 
 # ❗ Problem Statement
 
-Farmers commonly face problems like:
+Farmers commonly face problems such as:
 
 - Difficulty identifying crop diseases
 - Delayed farming guidance
@@ -84,7 +84,7 @@ Farmers commonly face problems like:
 - Lack of personalized recommendations
 - Crop monitoring difficulties
 
-KrishiMitra aims to provide a centralized AI-based solution for these challenges.
+KrishiMitra provides an AI-powered solution to simplify these challenges.
 
 ---
 
@@ -113,10 +113,10 @@ KrishiMitra aims to provide a centralized AI-based solution for these challenges
 
 - Upload Crop Image
 - Disease Detection
+- Severity Analysis
 - Cause Identification
 - Solution Suggestions
 - Prevention Methods
-- Severity Analysis
 
 </td>
 
@@ -131,8 +131,8 @@ KrishiMitra aims to provide a centralized AI-based solution for these challenges
 - Farm Details
 - Crop Details
 - Plantation Information
-- Task Scheduling
-- Smart Notifications
+- Smart Scheduling
+- Notifications
 
 </td>
 
@@ -160,25 +160,25 @@ KrishiMitra aims to provide a centralized AI-based solution for these challenges
 
 <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind"/>
 
-<br>
+<br><br>
 
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=java,spring"/>
 
-<br>
+<br><br>
 
 ### Database
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-<br>
+<br><br>
 
-### AI + Tools
+### AI & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Groq-AI-orange?style=for-the-badge"/>
 
@@ -221,7 +221,7 @@ A[Landing Page]
 
 -->C[Dashboard]
 
--->D[Select Function]
+-->D[Choose Function]
 
 -->E[AI Processing]
 
@@ -270,13 +270,13 @@ A[Farmer]
 
 📈 Market Price Tracking
 
-🏛️ Government Scheme Suggestions
+🏛 Government Scheme Suggestions
 
 🔔 Smart Notifications
 
 📡 IoT Sensor Integration
 
-🛰️ Satellite Crop Monitoring
+🛰 Satellite Crop Monitoring
 
 ---
 
@@ -306,17 +306,13 @@ KrishiMitra/
 │   │   ├── routes/
 │   │   ├── themes/
 │   │   └── translations/
-│   │
-│   ├── App.jsx
-│   └── main.jsx
 │
 ├── backend/
-│
 │   ├── controllers/
 │   ├── services/
 │   ├── models/
 │   ├── routes/
-│   ├── config/
+│   ├── configuration/
 │   └── utils/
 │
 ├── .env
@@ -326,21 +322,21 @@ KrishiMitra/
 
 ---
 
-# ⚙️ Installation Guide
+# ⚙️ Installation
 
-Clone repository:
+Clone repository
 
 ```bash
-git clone https://github.com/yourusername/KrishiMitra.git
+git clone https://github.com/YOUR_USERNAME/KrishiMitra.git
 ```
 
-Move into project:
+Move to folder
 
 ```bash
 cd KrishiMitra
 ```
 
-Frontend Setup:
+Frontend Setup
 
 ```bash
 cd frontend
@@ -350,7 +346,7 @@ npm install
 npm run dev
 ```
 
-Backend Setup:
+Backend Setup
 
 ```bash
 cd backend
@@ -362,7 +358,7 @@ mvn spring-boot:run
 
 # 🔐 Environment Variables
 
-Create:
+Create `.env`
 
 ```env
 GROQ_API_KEY=your_api_key
@@ -374,30 +370,16 @@ DATABASE_URL=your_database_url
 
 ---
 
-# 📷 Screenshots
-
-Add screenshots below:
-
-- Landing Page
-- Dashboard
-- AI Assistant
-- Crop Analysis
-- Farm Management
-
----
-
 # 📚 Learning Outcomes
 
-Through this project I learned:
-
 - Full Stack Development
-- REST API Integration
 - Authentication Systems
+- REST APIs
 - Database Design
 - AI Integration
-- Clean Architecture
 - State Management
 - UI/UX Design
+- Clean Architecture
 - Problem Solving
 
 ---
