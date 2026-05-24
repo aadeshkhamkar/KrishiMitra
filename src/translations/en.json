@@ -1,0 +1,196 @@
+{
+  "brand": "KrishiMitra AI",
+  "tagline": "Smart Agriculture for Maharashtra Farmers",
+  "nav": {
+    "features": "Features",
+    "how": "How it works",
+    "benefits": "Benefits",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "login": "Sign in",
+    "signup": "Get started"
+  },
+  "hero": {
+    "kicker": "Powered by AI · Built for Bharat",
+    "title": "Your AI farming companion, from sowing to harvest",
+    "subtitle": "Diagnose crop diseases from a photo, plan tasks for your farm, and chat with an expert agronomist — in Marathi, Hindi or English.",
+    "cta_primary": "Start free",
+    "cta_secondary": "Watch demo"
+  },
+  "features": {
+    "title": "Everything a modern farm needs",
+    "subtitle": "Tools designed for the realities of Indian agriculture.",
+    "items": {
+      "ai": { "t": "AI Assistant", "d": "Ask anything about crops, pests, weather or schemes — answers in your language." },
+      "disease": { "t": "Image Disease Analysis", "d": "Snap a leaf, get diagnosis, severity, causes, and step-by-step treatment." },
+      "farm": { "t": "Farm Management", "d": "Track multiple farms, crops, plantation dates and harvest plans." },
+      "tasks": { "t": "Smart Tasks", "d": "Auto-generated watering, fertilizing and harvest reminders." },
+      "weather": { "t": "Weather & Schemes", "d": "Local weather context and Maharashtra government scheme guidance." },
+      "multi": { "t": "Marathi · हिंदी · English", "d": "Switch language anytime — UI and AI responses adapt instantly." }
+    }
+  },
+  "how": {
+    "title": "How KrishiMitra works",
+    "s1": { "t": "Add your farm", "d": "Tell us about your soil, crops and plantation dates." },
+    "s2": { "t": "Snap or ask", "d": "Upload a crop photo or chat with the AI assistant." },
+    "s3": { "t": "Act with confidence", "d": "Get personalized tasks and treatment plans you can trust." }
+  },
+  "benefits": {
+    "title": "Why farmers choose KrishiMitra",
+    "items": [
+      "Diagnoses in under 10 seconds",
+      "Works on slow 2G connections",
+      "Built with Maharashtra crops in mind",
+      "Always-on agronomist in your pocket"
+    ]
+  },
+  "testimonials": {
+    "title": "Trusted by farmers across Maharashtra",
+    "items": [
+      { "name": "Ramesh P.", "loc": "Pune", "text": "Saved my tomato crop from blight. The AI told me exactly which fungicide to use." },
+      { "name": "Suresh J.", "loc": "Nashik", "text": "I ask in Marathi, I get answers in Marathi. Finally — technology made for us." },
+      { "name": "Anita K.", "loc": "Solapur", "text": "Task reminders mean I never miss an irrigation cycle. My yield is up 22%." }
+    ]
+  },
+  "faq": {
+    "title": "Questions, answered",
+    "items": [
+      { "q": "Is KrishiMitra free?", "a": "Yes — core features including AI chat and disease analysis are free for individual farmers." },
+      { "q": "Which languages are supported?", "a": "Marathi, Hindi and English. More on the way." },
+      { "q": "Do I need fast internet?", "a": "KrishiMitra is optimized to work on slow connections." },
+      { "q": "Is my data safe?", "a": "Your farm data is yours. We never share it with third parties." }
+    ]
+  },
+  "contact": {
+    "title": "Get in touch",
+    "subtitle": "Questions or feedback? We'd love to hear from you.",
+    "name": "Your name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send message",
+    "sent": "Thank you! We'll be in touch soon."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "made": "Made with care for India's farmers."
+  },
+  "auth": {
+    "login_title": "Welcome back",
+    "login_sub": "Sign in to your KrishiMitra account",
+    "register_title": "Create your account",
+    "register_sub": "Start managing your farm with AI",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full name",
+    "mobile": "Mobile number",
+    "location": "Location (city/village)",
+    "language": "Preferred language",
+    "submit_login": "Sign in",
+    "submit_register": "Create account",
+    "switch_to_register": "New here? Create an account",
+    "switch_to_login": "Already have an account? Sign in",
+    "demo_title": "Try a demo account",
+    "demo_sub": "Explore KrishiMitra with a pre-filled farmer profile",
+    "use_demo": "Use this account",
+    "logout": "Sign out"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "ai": "AI Assistant",
+    "crop": "Crop Analysis",
+    "farm": "Farm Management",
+    "tasks": "Tasks",
+    "notifications": "Notifications",
+    "weather": "Weather",
+    "history": "History",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "dashboard": {
+    "welcome": "Welcome back, {{name}}",
+    "subtitle": "Here's what's happening across your farm today.",
+    "farms": "Farms",
+    "crops": "Active crops",
+    "tasks_due": "Tasks due",
+    "reports": "Disease reports",
+    "quick": "Quick actions",
+    "open_chat": "Ask the AI assistant",
+    "open_analysis": "Analyze a crop photo",
+    "open_farm": "Add a farm",
+    "recent_tasks": "Upcoming tasks",
+    "no_tasks": "No tasks yet — add a farm to generate smart tasks."
+  },
+  "chat": {
+    "title": "AI Agronomist",
+    "subtitle": "Ask about crops, pests, weather, schemes — anything.",
+    "placeholder": "Ask in Marathi, Hindi or English…",
+    "send": "Send",
+    "thinking": "Thinking…",
+    "empty": "Start a conversation. Try: \"What fertilizer for tomato in monsoon?\""
+  },
+  "analysis": {
+    "title": "Crop Disease Analysis",
+    "subtitle": "Upload a clear photo of an affected leaf or plant.",
+    "upload": "Upload photo",
+    "analyze": "Analyze",
+    "analyzing": "Analyzing photo…",
+    "disease": "Disease",
+    "severity": "Severity",
+    "causes": "Causes",
+    "solutions": "Solutions",
+    "prevention": "Prevention",
+    "recommendations": "Recommendations",
+    "history": "Previous reports",
+    "no_history": "No analyses yet."
+  },
+  "farm": {
+    "title": "Farm Management",
+    "add": "Add farm",
+    "name": "Farm name",
+    "size": "Size (acres)",
+    "soil": "Soil type",
+    "location": "Location",
+    "save": "Save farm",
+    "crops": "Crops",
+    "add_crop": "Add crop",
+    "crop_name": "Crop name",
+    "crop_type": "Crop type",
+    "planted": "Plantation date",
+    "harvest": "Expected harvest",
+    "empty": "No farms yet. Add your first farm to get started."
+  },
+  "tasks": {
+    "title": "Tasks",
+    "add": "Add task",
+    "task_title": "Task title",
+    "description": "Description",
+    "due": "Due date",
+    "priority": "Priority",
+    "status": "Status",
+    "pending": "Pending",
+    "done": "Done",
+    "in_progress": "In progress",
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "empty": "No tasks. Generate some from your farm or add manually."
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading…",
+    "error": "Something went wrong",
+    "success": "Done"
+  }
+}

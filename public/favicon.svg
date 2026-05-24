@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="hatGrad" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#6b4f2d" />
+      <stop offset="100%" stop-color="#442e1a" />
+    </linearGradient>
+    <linearGradient id="leafGrad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#4da24d" />
+      <stop offset="100%" stop-color="#2e7a2e" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="#fff" />
+  <circle cx="64" cy="54" r="30" fill="#f2d1b3" />
+  <path d="M30 58 q34 -32 68 0 v20 q-34 20 -68 0 z" fill="#6b4f2d" />
+  <path d="M34 52 q30 -26 60 0 v10 q-30 12 -60 0 z" fill="url(#hatGrad)" />
+  <path d="M42 40 q18 -18 44 0" fill="none" stroke="#422b18" stroke-width="8" stroke-linecap="round" />
+  <path d="M58 30 q6 -16 18 0" fill="none" stroke="#422b18" stroke-width="8" stroke-linecap="round" />
+  <circle cx="48" cy="56" r="5" fill="#422b18" />
+  <circle cx="80" cy="56" r="5" fill="#422b18" />
+  <path d="M50 74 q14 12 28 0" fill="none" stroke="#422b18" stroke-width="5" stroke-linecap="round" />
+  <path d="M42 88 c10 -8 20 -18 30 -20 c10 2 20 12 30 20" fill="none" stroke="#4f8c3f" stroke-width="8" stroke-linecap="round" />
+  <path d="M42 94 c12 -10 24 -24 32 -26 c8 2 20 16 32 26" fill="none" stroke="url(#leafGrad)" stroke-width="10" stroke-linecap="round" />
+</svg>
